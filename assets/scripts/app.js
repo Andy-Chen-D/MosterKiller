@@ -1,4 +1,4 @@
-ㄥ/大寫是Global的意思
+//大寫是Global的意思
 const ATTACK_VALUE = 10
 const STTONG_ATTACK_VALUE = 17
 const MONSER_VALUE = 14
